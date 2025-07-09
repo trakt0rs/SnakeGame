@@ -1,0 +1,8 @@
+*.vcxproj.user
+*.vcxproj.filters
+.vs/
+
+bin/
+bin-int/
+
+score.dat
